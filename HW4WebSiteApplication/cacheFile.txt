@@ -1,0 +1,6 @@
+<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">Event Name: Morgan Wallen&#xD;
+ | Event ID: Z7r9jZ1Adjx-o&#xD;
+ | Event date: &#xD;
+2023-04-23&#xD;
+*********************&#xD;
+</string>
