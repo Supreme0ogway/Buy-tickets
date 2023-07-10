@@ -1,0 +1,7 @@
+C:\Users\wslat\source\repos\CSE445HW5\HW5SOAPService\bin\HW5SOAPService.dll.config
+C:\Users\wslat\source\repos\CSE445HW5\HW5SOAPService\bin\HW5SOAPService.dll
+C:\Users\wslat\source\repos\CSE445HW5\HW5SOAPService\bin\HW5SOAPService.pdb
+C:\Users\wslat\source\repos\CSE445HW5\HW5SOAPService\obj\Debug\HW5SOAPService.csproj.AssemblyReference.cache
+C:\Users\wslat\source\repos\CSE445HW5\HW5SOAPService\obj\Debug\HW5SOAPService.csproj.CoreCompileInputs.cache
+C:\Users\wslat\source\repos\CSE445HW5\HW5SOAPService\obj\Debug\HW5SOAPService.dll
+C:\Users\wslat\source\repos\CSE445HW5\HW5SOAPService\obj\Debug\HW5SOAPService.pdb

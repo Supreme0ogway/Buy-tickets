@@ -1,0 +1,10 @@
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\bin\HW42APIServices.dll.config
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\bin\HW42APIServices.dll
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\bin\HW42APIServices.pdb
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\bin\Newtonsoft.Json.dll
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\bin\Newtonsoft.Json.xml
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\obj\Debug\HW42APIServices.csproj.AssemblyReference.cache
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\obj\Debug\HW42APIServices.csproj.CoreCompileInputs.cache
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\obj\Debug\HW42APIServices.csproj.CopyComplete
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\obj\Debug\HW42APIServices.dll
+C:\Users\wslat\source\repos\CSE445HW5\HW42APIServices\obj\Debug\HW42APIServices.pdb
